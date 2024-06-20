@@ -1,5 +1,5 @@
 # Indian Stock Dashboard 
- This is a streamkit based Indian Stock Dashboard for stock information and Analysis
+ This is a streamlit based Indian Stock Dashboard for stock information and Analysis
  
 ## Features
 - Stock Price
